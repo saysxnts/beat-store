@@ -1,2 +1,0 @@
-# beat-store
-beat-store
